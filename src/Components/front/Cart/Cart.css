@@ -1,0 +1,197 @@
+.cart {
+  overflow-x: hidden;
+}
+
+.cart-totl-item {
+  font-weight: 700;
+  margin-top: 5%;
+  margin-bottom: 10px;
+}
+
+.empty {
+  margin-top: 5%;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.cart-img {
+  width: 50px;
+}
+
+.cart-name {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.cart-price {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.item-qty {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.btn-minus {
+  padding: 3px 8px;
+  font-size: 16px;
+  background: black !important;
+  color: white !important;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.btn-add {
+  padding: 3px 7px;
+  font-size: 16px;
+  font-weight: 600;
+  background: black !important;
+  color: white !important;
+  border-radius: 5px;
+}
+
+.btn-remove {
+  padding: 4px 8px;
+  font-size: 13px;
+  color: white !important;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.total-price {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+/* margin on clear and buy btn */
+.clear-buy {
+  margin: 0px 20px;
+}
+
+.btn-clear {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.btn-buy {
+  font-weight: 600;
+  font-size: 16px;
+  background: black !important;
+  color: white !important;
+}
+
+.cart-header {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.table {
+  table {
+    width: 100%;
+  }
+
+  table th,
+  table td {
+    white-space: nowrap;
+  }
+
+  .table-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+@media (max-width: 768px) {
+  .table-responsive {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .cart-totl-item {
+    font-weight: 600;
+    margin-top: 6%;
+    margin-bottom: 6px;
+    font-size: 15px;
+  }
+
+  .empty {
+    margin-top: 15%;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+  }
+
+  .cart-header {
+    font-size: 13px;
+    font-weight: 600;
+  }
+
+  .cart-img {
+    width: 40px;
+  }
+
+  .cart-name {
+    font-weight: 600;
+    font-size: 10px;
+  }
+
+  .cart-price {
+    font-weight: 600;
+    font-size: 11px;
+  }
+
+  .item-qty {
+    font-weight: 600;
+    font-size: 11px;
+  }
+
+  .btn-minus {
+    padding: 2px 7px;
+    font-size: 10px;
+    background: black !important;
+    color: white !important;
+    border-radius: 5px;
+    font-weight: 600;
+  }
+  
+  .btn-add {
+    padding: 2px 6px;
+    font-size: 10px;
+    font-weight: 600;
+    background: black !important;
+    color: white !important;
+    border-radius: 5px;
+  }
+  
+  .btn-remove {
+    padding: 4px 8px;
+    font-size: 8px;
+    color: white !important;
+    border-radius: 5px;
+    font-weight: 600;
+  }
+
+  .total-price{
+    font-size: 15px;
+    font-weight: 700;
+  }
+
+  .btn-clear {
+    font-weight: 600;
+    font-size: 11px;
+  }
+  
+  .btn-buy {
+    font-weight: 600;
+    font-size: 11px;
+    background: black !important;
+    color: white !important;
+  }
+
+  .clear-buy {
+    margin: 0px 12px;
+  }
+}
