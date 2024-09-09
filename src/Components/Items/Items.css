@@ -2,6 +2,7 @@
     margin: 20px auto;
     width: 100%;
     margin-top: 50px;
+    /* padding-bottom: 50px !important; */
 }
 
 
@@ -96,6 +97,10 @@
 
     .btn-container{
         margin-top: 20px;
+    }
+
+    .card{
+        margin-bottom: -40px !important;
     }
     
 }
