@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sports-shop/static/css/main.45384a83.css",
+    "main.js": "/sports-shop/static/js/main.8b6fb5a5.js",
+    "static/js/453.0f4552a2.chunk.js": "/sports-shop/static/js/453.0f4552a2.chunk.js",
+    "index.html": "/sports-shop/index.html",
+    "main.45384a83.css.map": "/sports-shop/static/css/main.45384a83.css.map",
+    "main.8b6fb5a5.js.map": "/sports-shop/static/js/main.8b6fb5a5.js.map",
+    "453.0f4552a2.chunk.js.map": "/sports-shop/static/js/453.0f4552a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45384a83.css",
+    "static/js/main.8b6fb5a5.js"
+  ]
+}
